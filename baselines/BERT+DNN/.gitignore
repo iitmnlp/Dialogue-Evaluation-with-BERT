@@ -1,0 +1,5 @@
+experiments
+__pycache__
+log_process
+data/*
+

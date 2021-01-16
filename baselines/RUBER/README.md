@@ -42,8 +42,8 @@ Download the pretrained checkpoints from below:
 
 | Model       | Architecture                                                | No. of Parameters | Dataset                      | Download |
 |-------------|-------------------------------------------------------------|-------------------|------------------------------|----------|
-| RUBER       | 1-layer Bi-directional GRUs <br /> with hidden size of 1024 | 34M               | Reddit <br /> (20M contexts) | here     |
-| RUBER-Large | 2-layer Bi-directional GRUs <br /> with hidden size of 2048 | 236M              | Reddit <br /> (20M contexts) | here     |
+| RUBER       | 1-layer Bi-directional GRUs <br /> with hidden size of 1024 | 34M               | Reddit <br /> (20M contexts) | [here](https://drive.google.com/file/d/1fymMcrhr0K7y5xCJOa5p6dgG0F7temcE/view?usp=sharing)     |
+| RUBER-Large | 2-layer Bi-directional GRUs <br /> with hidden size of 2048 | 236M              | Reddit <br /> (20M contexts) | [here](https://drive.google.com/file/d/1iCr9oIPqGn_Iaxz0ws5ttwi6ge8wpUrX/view?usp=sharing)     |
 
 
 ## Training & Evaluation
